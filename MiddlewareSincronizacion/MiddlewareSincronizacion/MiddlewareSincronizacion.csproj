@@ -1,0 +1,1212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A54567F-0696-420D-B941-B47FF9F1515A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MiddlewareSincronizacion</RootNamespace>
+    <AssemblyName>MiddlewareSincronizacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="sapnco, Version=3.0.0.42, Culture=neutral, PublicKeyToken=50436dca5c7f7d23, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Desktop\sapnco.dll</HintPath>
+    </Reference>
+    <Reference Include="sapnco_utils, Version=3.0.0.42, Culture=neutral, PublicKeyToken=50436dca5c7f7d23, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Desktop\sapnco_utils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccesoDatos\ACC_BOOM_MATE_PP.cs" />
+    <Compile Include="AccesoDatos\ACC_ClaseOrdenPP.cs" />
+    <Compile Include="AccesoDatos\ACC_Etiquetas.cs" />
+    <Compile Include="AccesoDatos\ACC_HOJA_RUTA_PP.cs" />
+    <Compile Include="AccesoDatos\ACC_Inventarios.cs" />
+    <Compile Include="AccesoDatos\ACC_Materiales.cs" />
+    <Compile Include="AccesoDatos\ACC_movMM.cs" />
+    <Compile Include="AccesoDatos\ACC_MovNotPP.cs" />
+    <Compile Include="AccesoDatos\ACC_NotTiempos.cs" />
+    <Compile Include="AccesoDatos\acc_ordenes_pp.cs" />
+    <Compile Include="AccesoDatos\ACC_StatusOrdenes.cs" />
+    <Compile Include="AccesoDatos\DALC_Almacenes_Ivend.cs" />
+    <Compile Include="AccesoDatos\DALC_Avisos.cs" />
+    <Compile Include="AccesoDatos\DALC_AvisosCalidad.cs" />
+    <Compile Include="AccesoDatos\DALC_AvisosCalidad_Crea.cs" />
+    <Compile Include="AccesoDatos\DALC_BomEquipo.cs" />
+    <Compile Include="AccesoDatos\DALC_CalidadMM.cs" />
+    <Compile Include="AccesoDatos\DALC_CalidadNotificaciones.cs" />
+    <Compile Include="AccesoDatos\DALC_CaracteristicasQM.cs" />
+    <Compile Include="AccesoDatos\DALC_Catalagos_QM.cs" />
+    <Compile Include="AccesoDatos\DALC_Catalogo.cs" />
+    <Compile Include="AccesoDatos\DALC_Catalogos.cs" />
+    <Compile Include="AccesoDatos\DALC_Catalogos_SD.cs" />
+    <Compile Include="AccesoDatos\DALC_CierreAvisosLigue.cs" />
+    <Compile Include="AccesoDatos\DALC_ClaseOrdenesPMSAM.cs" />
+    <Compile Include="AccesoDatos\DALC_Clientes.cs" />
+    <Compile Include="AccesoDatos\DALC_Connection.cs" />
+    <Compile Include="AccesoDatos\DALC_ConsumosSAM.cs" />
+    <Compile Include="AccesoDatos\DALC_Contadores.cs" />
+    <Compile Include="AccesoDatos\DALC_Conteo_Inventario.cs" />
+    <Compile Include="AccesoDatos\DALC_DecisionEmpleo.cs" />
+    <Compile Include="AccesoDatos\DALC_Documentos_inventario.cs" />
+    <Compile Include="AccesoDatos\DALC_Equipos.cs" />
+    <Compile Include="AccesoDatos\DALC_Flujo.cs" />
+    <Compile Include="AccesoDatos\DALC_FlujoDeudores.cs" />
+    <Compile Include="AccesoDatos\DALC_GrupoPlan.cs" />
+    <Compile Include="AccesoDatos\DALC_GuardaAvisos.cs" />
+    <Compile Include="AccesoDatos\DALC_HojaRuta.cs" />
+    <Compile Include="AccesoDatos\DALC_Interlocutores.cs" />
+    <Compile Include="AccesoDatos\DALC_Inventarios.cs" />
+    <Compile Include="AccesoDatos\DALC_IW31.cs" />
+    <Compile Include="AccesoDatos\DALC_ListaMov.cs" />
+    <Compile Include="AccesoDatos\DALC_MaterialAC.cs" />
+    <Compile Include="AccesoDatos\DALC_Materiales.cs" />
+    <Compile Include="AccesoDatos\DALC_MaterialesAlmacen.cs" />
+    <Compile Include="AccesoDatos\DALC_MaterialesQM.cs" />
+    <Compile Include="AccesoDatos\DALC_MaterialesSD.cs" />
+    <Compile Include="AccesoDatos\DALC_Mat_Precios.cs" />
+    <Compile Include="AccesoDatos\DALC_MMEntradasSam.cs" />
+    <Compile Include="AccesoDatos\DALC_MM_MovMat.cs" />
+    <Compile Include="AccesoDatos\DALC_ModAvisosPM.cs" />
+    <Compile Include="AccesoDatos\DALC_ModificaAvisosGuarda.cs" />
+    <Compile Include="AccesoDatos\DALC_NotificacionesSAM.cs" />
+    <Compile Include="AccesoDatos\DALC_Notificaciones_PP.cs" />
+    <Compile Include="AccesoDatos\DALC_Obyc.cs" />
+    <Compile Include="AccesoDatos\DALC_OperacionesQM.cs" />
+    <Compile Include="AccesoDatos\DALC_Ordenes.cs" />
+    <Compile Include="AccesoDatos\DALC_OrdenesMM.cs" />
+    <Compile Include="AccesoDatos\DALC_OrdenesPMBD.cs" />
+    <Compile Include="AccesoDatos\DALC_Pedidos.cs" />
+    <Compile Include="AccesoDatos\DALC_PedidosSD.cs" />
+    <Compile Include="AccesoDatos\DALC_PP_Plan.cs" />
+    <Compile Include="AccesoDatos\DALC_Proveedores.cs" />
+    <Compile Include="AccesoDatos\DALC_QMDefectos.cs" />
+    <Compile Include="AccesoDatos\DALC_RegInfo.cs" />
+    <Compile Include="AccesoDatos\DALC_Relacion.cs" />
+    <Compile Include="AccesoDatos\DALC_RepConsumos.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteAvisos.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteAvisosActividades.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteAvisosCalidad.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteContadores.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteDefectos.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteDMS.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteEntradas.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteLostesInspeccion.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteLotesPM.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteMovimientos.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteNotificaciones.cs" />
+    <Compile Include="AccesoDatos\DALC_ReporteOrden.cs" />
+    <Compile Include="AccesoDatos\DALC_ReportesReservas.cs" />
+    <Compile Include="AccesoDatos\DALC_RepoSolpe.cs" />
+    <Compile Include="AccesoDatos\DALC_RepStatusOrd.cs" />
+    <Compile Include="AccesoDatos\DALC_Reservas.cs" />
+    <Compile Include="AccesoDatos\DALC_ReservasMateriales.cs" />
+    <Compile Include="AccesoDatos\DALC_Rfcs.cs" />
+    <Compile Include="AccesoDatos\DALC_sincronizacion.cs" />
+    <Compile Include="AccesoDatos\DALC_Sol_Ped.cs" />
+    <Compile Include="AccesoDatos\DALC_StatusNotificaciones.cs" />
+    <Compile Include="AccesoDatos\DALC_StockTransferencia.cs" />
+    <Compile Include="AccesoDatos\DALC_StoredProcedures.cs" />
+    <Compile Include="AccesoDatos\DALC_TipoMovi.cs" />
+    <Compile Include="AccesoDatos\DALC_Tipos_Solped.cs" />
+    <Compile Include="AccesoDatos\DALC_Tolerancia.cs" />
+    <Compile Include="AccesoDatos\DALC_Ubicaciones.cs" />
+    <Compile Include="AccesoDatos\DALC_Usuarios.cs" />
+    <Compile Include="AccesoDatos\DALC_ValidaSolped.cs" />
+    <Compile Include="AccesoDatos\DALC_Vendedores.cs" />
+    <Compile Include="AccesoDatos\DALC_VisNot.cs" />
+    <Compile Include="AccesoDatos\RawPrinterHelper.cs" />
+    <Compile Include="AccesoDatos\RawPrinterHelperTLP.cs" />
+    <Compile Include="AccesoDatos\TextoPosicionesOrdenesVis.cs" />
+    <Compile Include="cab_DocsInvetGET_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cab_MovNotGETPP_mdl_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="centros.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="centros303_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="centro_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Entidades\Avisos_vendedor.cs" />
+    <Compile Include="Entidades\Boom_MatePP.cs" />
+    <Compile Include="Entidades\CabeceraPedidosSD.cs" />
+    <Compile Include="Entidades\Cabecera_documentos_inventario.cs" />
+    <Compile Include="Entidades\Cabecera_Pedidos_SD.cs" />
+    <Compile Include="Entidades\Cabecera_Recuento_Inventario.cs" />
+    <Compile Include="Entidades\ClaseOrdenPP.cs" />
+    <Compile Include="Entidades\ClasePedido.cs" />
+    <Compile Include="Entidades\Componentes_de_ordenesPM.cs" />
+    <Compile Include="Entidades\Condiciones_Pedidos_SD.cs" />
+    <Compile Include="Entidades\Expedicion_Pedidos_SD.cs" />
+    <Compile Include="Entidades\FlujoDeudores.cs" />
+    <Compile Include="Entidades\FlujoSD.cs" />
+    <Compile Include="Entidades\GrupoVendedores.cs" />
+    <Compile Include="Entidades\Hoja_RutaPP.cs" />
+    <Compile Include="Entidades\Inforecords.cs" />
+    <Compile Include="Entidades\Interlocutores.cs" />
+    <Compile Include="Entidades\Interlocutores_pedidos_vis.cs" />
+    <Compile Include="Entidades\Inventario.cs" />
+    <Compile Include="Entidades\InventarioEE.cs" />
+    <Compile Include="Entidades\ListaPrecios.cs" />
+    <Compile Include="Entidades\MaterialesSD.cs" />
+    <Compile Include="Entidades\Materiales_Almacen.cs" />
+    <Compile Include="Entidades\mat_precios.cs" />
+    <Compile Include="Entidades\OficinaVentas.cs" />
+    <Compile Include="Entidades\Operaciones_de_ordenesPM.cs" />
+    <Compile Include="Entidades\ORDENES_CONTROL.cs" />
+    <Compile Include="Entidades\Org_ventas.cs" />
+    <Compile Include="Entidades\Plan_Orden_PP.cs" />
+    <Compile Include="Entidades\Posiciones_documento_inventario.cs" />
+    <Compile Include="Entidades\Posiciones_Pedidos_SD.cs" />
+    <Compile Include="Entidades\RelacionInterlocutores.cs" />
+    <Compile Include="Entidades\Repartos_Pedidos_SD.cs" />
+    <Compile Include="Entidades\Stock_Transeferencia.cs" />
+    <Compile Include="Entidades\TextoComercialMaterialesSD.cs" />
+    <Compile Include="Entidades\textos_actividades.cs" />
+    <Compile Include="Entidades\Textos_Cabecera_Pedidos_SD_Vis.cs" />
+    <Compile Include="Entidades\Textos_Posiciones_Pedidos_SD_Vis.cs" />
+    <Compile Include="Entidades\Validacion.cs" />
+    <Compile Include="getDatosEtiquetaPP2_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="InsertaClaseOrdenPP_mdl_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="OBTENER_RFCO_CENTRO_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OBTENER_RFCP_CENTRO_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="OBTENER_RFCT_CENTRO_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pos_DocsInvetGET_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pos_MovNotGETPP_mdl_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pos_NotTiempGETPP2_mdl_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="samEntities.cs" />
+    <Compile Include="ConfigSAP.cs" />
+    <Compile Include="Entidades\Actividad.cs" />
+    <Compile Include="Entidades\ACTIVIDAD_ORDEN.cs" />
+    <Compile Include="Entidades\Almacenes.cs" />
+    <Compile Include="Entidades\Almacenes_Ivend.cs" />
+    <Compile Include="Entidades\Avisos.cs" />
+    <Compile Include="Entidades\AvisosCalidad.cs" />
+    <Compile Include="Entidades\BomEquipo.cs" />
+    <Compile Include="Entidades\CabAvisosCrea.cs" />
+    <Compile Include="Entidades\CabConsumosCrea.cs" />
+    <Compile Include="Entidades\CabeceraLotesInspeccionMovimientos.cs" />
+    <Compile Include="Entidades\CabeceraLotesInspeccionNotificaciones.cs" />
+    <Compile Include="Entidades\Cabecera_defectos.cs" />
+    <Compile Include="Entidades\CabNotificacionesCrea.cs" />
+    <Compile Include="Entidades\CabOrdenesCrea.cs" />
+    <Compile Include="Entidades\CAB_QM01.cs" />
+    <Compile Include="Entidades\CalidadCabNot.cs" />
+    <Compile Include="Entidades\CalidadMMPos.cs" />
+    <Compile Include="Entidades\CalidadMovimientosMateriales.cs" />
+    <Compile Include="Entidades\CalidadPosNot.cs" />
+    <Compile Include="Entidades\Canal_Distribucion.cs" />
+    <Compile Include="Entidades\CanAvisosSAPModificaciones.cs" />
+    <Compile Include="Entidades\CaracterisitcasQM.cs" />
+    <Compile Include="Entidades\CaracteristicasLote.cs" />
+    <Compile Include="Entidades\CatalogoGrupoCentroCostos.cs" />
+    <Compile Include="Entidades\CatalogoGrupoMateriales.cs" />
+    <Compile Include="Entidades\Catalogos_PM.cs" />
+    <Compile Include="Entidades\Cecos.cs" />
+    <Compile Include="Entidades\CentroBeneficio.cs" />
+    <Compile Include="Entidades\CentroCoste.cs" />
+    <Compile Include="Entidades\CENTRO_PLANIFICACION.cs" />
+    <Compile Include="Entidades\CierreAvisosLigue.cs" />
+    <Compile Include="Entidades\ClaseAviso.cs" />
+    <Compile Include="Entidades\ClaseDoc.cs" />
+    <Compile Include="Entidades\ClaseInforme.cs" />
+    <Compile Include="Entidades\CLASE_ORDEN.cs" />
+    <Compile Include="Entidades\ClaveMoneda.cs" />
+    <Compile Include="Entidades\Clientes.cs" />
+    <Compile Include="Entidades\CodigosDefecto.cs" />
+    <Compile Include="Entidades\Componentes.cs" />
+    <Compile Include="Entidades\ConexionLocalHost.cs" />
+    <Compile Include="Entidades\ConexionSAP.cs" />
+    <Compile Include="Entidades\Consumos.cs" />
+    <Compile Include="Entidades\Contadores.cs" />
+    <Compile Include="Entidades\CONTROL_OPERACION.cs" />
+    <Compile Include="Entidades\CuentaMayor.cs" />
+    <Compile Include="Entidades\DatosInspeccion.cs" />
+    <Compile Include="Entidades\DecisionEmpleo.cs" />
+    <Compile Include="Entidades\DecisionEmpleoCaracteristicas.cs" />
+    <Compile Include="Entidades\DecisionEmpleoLoteInps.cs" />
+    <Compile Include="Entidades\Distribucion.cs" />
+    <Compile Include="Entidades\DMS.cs" />
+    <Compile Include="Entidades\ENSAMBLE.cs" />
+    <Compile Include="Entidades\EntradaServiciosCrea.cs" />
+    <Compile Include="Entidades\Equipos.cs" />
+    <Compile Include="Entidades\Equipo_O.cs" />
+    <Compile Include="Entidades\EstatusCreacion.cs" />
+    <Compile Include="Entidades\EstatusTratamiento.cs" />
+    <Compile Include="Entidades\GrupoArticulos.cs" />
+    <Compile Include="Entidades\GrupoCodigos.cs" />
+    <Compile Include="Entidades\GrupoCompras.cs" />
+    <Compile Include="Entidades\GrupoPlan.cs" />
+    <Compile Include="Entidades\GRUPOS_PLANIFICACION.cs" />
+    <Compile Include="Entidades\HojasRuta.cs" />
+    <Compile Include="Entidades\Hora.cs" />
+    <Compile Include="Entidades\InfoTipo.cs" />
+    <Compile Include="Entidades\Inventarios.cs" />
+    <Compile Include="Entidades\ListaCentroCostoGrupoCosto.cs" />
+    <Compile Include="Entidades\ListaMaterialGrupoMaterial.cs" />
+    <Compile Include="Entidades\Mantenimiento.cs" />
+    <Compile Include="Entidades\Materiales.cs" />
+    <Compile Include="Entidades\MaterialesAlmacen.cs" />
+    <Compile Include="Entidades\MaterialesConversion.cs" />
+    <Compile Include="Entidades\MaterialesQM.cs" />
+    <Compile Include="Entidades\Material_Almacen_Centro.cs" />
+    <Compile Include="Entidades\Medicion.cs" />
+    <Compile Include="Entidades\Mov_cabecera_crea.cs" />
+    <Compile Include="Entidades\Mov_detalle_crea.cs" />
+    <Compile Include="Entidades\NOTIFICACIONES.cs" />
+    <Compile Include="Entidades\OBYC.cs" />
+    <Compile Include="Entidades\OperacionesQM.cs" />
+    <Compile Include="Entidades\OrdenesControl.cs" />
+    <Compile Include="Entidades\OrdenesEmplazamiento.cs" />
+    <Compile Include="Entidades\OrdenesPlanificacion.cs" />
+    <Compile Include="Entidades\Ordenes_MM.cs" />
+    <Compile Include="Entidades\ORDENES_PM.cs" />
+    <Compile Include="Entidades\OrganizacionCompras.cs" />
+    <Compile Include="Entidades\Organizacion_Ventas.cs" />
+    <Compile Include="Entidades\Pedidos_I.cs" />
+    <Compile Include="Entidades\Pedidos_II.cs" />
+    <Compile Include="Entidades\PM01.cs" />
+    <Compile Include="Entidades\PM03_1.cs" />
+    <Compile Include="Entidades\PM03_2.cs" />
+    <Compile Include="Entidades\PM03_3.cs" />
+    <Compile Include="Entidades\PM_OPERACIONES.cs" />
+    <Compile Include="Entidades\PosAvisosSAPModificaciones.cs" />
+    <Compile Include="Entidades\PosConsumosCrea.cs" />
+    <Compile Include="Entidades\PosicionesLotesInspeccionesNotificaciones.cs" />
+    <Compile Include="Entidades\PosicionesLotesInspeccionMovimientos.cs" />
+    <Compile Include="Entidades\Posiciones_defectos.cs" />
+    <Compile Include="Entidades\PosNotificacionesCrea.cs" />
+    <Compile Include="Entidades\PP_Plan.cs" />
+    <Compile Include="Entidades\PP_PlanOP.cs" />
+    <Compile Include="Entidades\PRIORIDAD.cs" />
+    <Compile Include="Entidades\Proveedores.cs" />
+    <Compile Include="Entidades\PUESTO_TRABAJO.cs" />
+    <Compile Include="Entidades\QM01_1.cs" />
+    <Compile Include="Entidades\QM01_2.cs" />
+    <Compile Include="Entidades\QM01_3.cs" />
+    <Compile Include="Entidades\RegInfo.cs" />
+    <Compile Include="Entidades\Relacion.cs" />
+    <Compile Include="Entidades\Relacion2.cs" />
+    <Compile Include="Entidades\ReporteActualizaAvisoCalidad.cs" />
+    <Compile Include="Entidades\ReporteAviso.cs" />
+    <Compile Include="Entidades\ReporteAvisosActividad.cs" />
+    <Compile Include="Entidades\ReporteContadores.cs" />
+    <Compile Include="Entidades\ReporteDefectos.cs" />
+    <Compile Include="Entidades\ReporteDMS.cs" />
+    <Compile Include="Entidades\ReporteEmpleo.cs" />
+    <Compile Include="Entidades\ReporteEntradas.cs" />
+    <Compile Include="Entidades\ReporteLotesInsp.cs" />
+    <Compile Include="Entidades\ReporteLotesPM.cs" />
+    <Compile Include="Entidades\ReporteMovimientos.cs" />
+    <Compile Include="Entidades\ReporteNotificaciones.cs" />
+    <Compile Include="Entidades\ReporteOrden.cs" />
+    <Compile Include="Entidades\ReporteReservas.cs" />
+    <Compile Include="Entidades\RepoSolpe.cs" />
+    <Compile Include="Entidades\ReservaCab.cs" />
+    <Compile Include="Entidades\ReservaPos.cs" />
+    <Compile Include="Entidades\ReservasMateriales.cs" />
+    <Compile Include="Entidades\ResponsableTrab.cs" />
+    <Compile Include="Entidades\Sector.cs" />
+    <Compile Include="Entidades\Servicio.cs" />
+    <Compile Include="Entidades\Servicios.cs" />
+    <Compile Include="Entidades\ServiciosPM.cs" />
+    <Compile Include="Entidades\Sincro.cs" />
+    <Compile Include="Entidades\Sincronizacion.cs" />
+    <Compile Include="Entidades\Sociedades.cs" />
+    <Compile Include="Entidades\SolPedCancela.cs" />
+    <Compile Include="Entidades\SolPed_Crea.cs" />
+    <Compile Include="Entidades\SolPed_Pos.cs" />
+    <Compile Include="Entidades\SolPed_Rep.cs" />
+    <Compile Include="Entidades\SolPed_Serv.cs" />
+    <Compile Include="Entidades\SolPed_Ser_Vis.cs" />
+    <Compile Include="Entidades\SolPed_Vis_Cab.cs" />
+    <Compile Include="Entidades\StatusNotificaciones.cs" />
+    <Compile Include="Entidades\StatusOrdenes.cs" />
+    <Compile Include="Entidades\StockTransferencia.cs" />
+    <Compile Include="Entidades\TextoAvisosCalidadCrea.cs" />
+    <Compile Include="Entidades\TextoCabeceraSolped.cs" />
+    <Compile Include="Entidades\TextoPosAvisosCalidad.cs" />
+    <Compile Include="Entidades\TextoPosicionesSolped.cs" />
+    <Compile Include="Entidades\TextoPosicionOrdenesCrea.cs" />
+    <Compile Include="Entidades\Textos.cs" />
+    <Compile Include="Entidades\TextosAvisosCalidad.cs" />
+    <Compile Include="Entidades\TextosCaracteristicasOrdenes.cs" />
+    <Compile Include="Entidades\Tiempo.cs" />
+    <Compile Include="Entidades\TipoImp.cs" />
+    <Compile Include="Entidades\TipoMaterial.cs" />
+    <Compile Include="Entidades\TipoPos.cs" />
+    <Compile Include="Entidades\TipoPosicion.cs" />
+    <Compile Include="Entidades\TiposMovimientos.cs" />
+    <Compile Include="Entidades\Tipos_Solped.cs" />
+    <Compile Include="Entidades\TMIGO_CAB.cs" />
+    <Compile Include="Entidades\TMIGO_POS.cs" />
+    <Compile Include="Entidades\Tolerancia.cs" />
+    <Compile Include="Entidades\Ubicaciones.cs" />
+    <Compile Include="Entidades\UNIDADES_MEDIDA.cs" />
+    <Compile Include="Entidades\UsuarioGrupoCentroCoste.cs" />
+    <Compile Include="Entidades\UsuarioGrupoMateriales.cs" />
+    <Compile Include="Entidades\Usuarios.cs" />
+    <Compile Include="Entidades\UtilizacionHR.cs" />
+    <Compile Include="Entidades\UtilizacionL.cs" />
+    <Compile Include="frmConfiguracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfiguracion.Designer.cs">
+      <DependentUpon>frmConfiguracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalHost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalHost.Designer.cs">
+      <DependentUpon>frmLocalHost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Principal.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SELECT_avisos_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_avisos_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_avisos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_avisos_crea_lista_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_avisos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_avisos_textos_calidad_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_consumos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_consumos_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_consumos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_defectos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_defectos_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_defectos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_lotes_inspeccion_movimientos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_lotes_inspeccion_movimientos_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_lotes_inspeccion_movimientos_crea_li_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_lotes_inspeccion_movimientos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_lotes_inspeccion_notificaciones_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_lotes_inspeccion_notificaciones_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_lotes_inspeccion_notificaciones_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_modificacion_avisos_sap_crea_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_modificacion_avisos_sap_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_modificacion_avisos_sap_crea_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_notificaciones_crea_Folios_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_notificaciones_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_notificaciones_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_ordenes_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_ordenes_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_ordenes_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_pedidos_sd_crea_Fol_MDL1_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_pedidos_sd_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabecera_recuento_inventario_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cabMov_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cancela_solped_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cantidades_pedido_sd_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cierre_ligue_avisos_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cierre_ligue_avisos_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_cierre_ligue_avisos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_Clase_Orden_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_clientes_pedido_sd_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_consumos_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_consumos_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_contadores_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_contadores_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_contadores_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_contadores_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_contador_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_conteo_sd_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_contradores_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_decision_empleo_lote_crea2_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_decision_empleo_lote_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_decision_empleo_lote_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_defectos_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_defectos_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_entrada_servicios_crea_F_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_entrada_servicios_crea_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_entrada_servicios_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_entrada_servicios_crea_Todo_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_entrada_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_Errores_Movimientos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_fol_cabecera_modificacion_avisos_sap_crea_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_clase_orden_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_avisos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_cabecera_modificacion_avisos_sap_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_consumos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_contadores_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_conteo_sd_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_defectos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_entrada_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_lotemov_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_lotepm_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_mov_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_Mov_MM_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_notificaciones_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_Noti_PP_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_ordenes_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_pedido_sd_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_reservas_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_solped_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_statusnot_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_folios_txtavical_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lista_mov_eliminar_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lotemov_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lotepm_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_lotepm_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_materiales_ordenes_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_materiales_ordenes_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_MATERIAL_STOCK_TRANSFER_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_movimientos_cabecera_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_movimientos_cabecera_crea_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_movimientos_cabecera_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_movimientos_cabecera_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_movimientos_detalle_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_movimientos_detalle_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_Mov_MM_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_mov_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_notificaciones_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_notificaciones_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_Noti_PP_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_operaciones_ordenes_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_operaciones_ordenes_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_ordenes_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_ordenes_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_pedido_sd_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_avisos_textos_calidad_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_consumos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_consumos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_defectos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_defectos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_lotes_inspeccion_movimientos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_lotes_inspeccion_movimientos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_lotes_inspeccion_notificaciones_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_lotes_inspeccion_notificaciones_crea_F_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_lotes_inspeccion_notificaciones_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_modificacion_avisos_sap_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_notificaciones_crea_Folios_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_notificaciones_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_pedido_sd_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posiciones_recuento_inventario_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_posMov_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_qmm_avisos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_qmm_avisos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_reservas_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_reserva_cabecera_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_reserva_cabecera_crea_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_reserva_cabecera_crea_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_reserva_cabecera_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_reserva_posiciones_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_reserva_posiciones_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_servicios_ordenes_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_servicios_ordenes_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_sincronizacion_input_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_sincronizacion_inventarios_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_solped_crea_fecha_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_solped_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_solped_crea_li_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_solped_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_solped_servicios_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_solped_servicios_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_solped_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_statusnot_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_statusnot_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_status_notificaciones_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_status_notificaciones_list_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_status_notificaciones_li_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_status_notificaciones_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_cabecera_solped_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_cabecera_solped_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_decision_empleo_lote_crea2_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_decision_empleo_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_defectos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_defectos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_entrada_servicios_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_entrada_servicios_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_pedidos_cabecera_sd_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_pedidos_posiciones_sd_crea_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_posiciones_solped_Fol_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_textos_posiciones_solped_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_texto_avisos_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_texto_avisos_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_texto_posicion_ordenes_crea_Folio_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_texto_posicion_ordenes_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_tiempos_O_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_tiempos_P_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_tiempos_Transferencia_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_txtavical_datos_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_txtavical_valida_hora_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_usuario_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELECT_Validar_existe_material_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_contador_sd_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_entrada_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_lotemov_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_mov_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_Mov_MM_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_Noti_PP_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_pedido_sd_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_reserva_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_datos_solped_id_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_avisos_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_consumos_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_contador_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_defectos_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_entrada_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_estatusnot_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_lotemov_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_lotepm_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_mov_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_notificaciones_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_ordenes_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_reserva_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_solped_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SELEC_fol_txtavical_menos_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sincronizacion_input_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sincronizacion_output_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sincronizacion_proceso_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="status_ordenesGET_mdl_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="stock_transferecia_313.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="S_entrada_servicios_crea_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UPDATE_Componentes_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UPDATE_MATERIAL_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="usuariosInsert_mdl_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_INV_EE_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_INV_MM_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL11_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL12_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL1_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL21_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL2_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL3_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL4_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MATERIAL_ST_MDL_Result1.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="VALIDA_MOVI_ERROR_MDL_Result.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmLocalHost.resx">
+      <DependentUpon>frmLocalHost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EntityDeploy Include="Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </None>
+    <None Include="Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </None>
+    <None Include="Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Conexiones.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

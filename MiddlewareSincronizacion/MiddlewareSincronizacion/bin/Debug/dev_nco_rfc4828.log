@@ -1,0 +1,31 @@
+**** Log file opened by process 4828 at 2017-06-29 23:13:34 (UTC-05:00 Hora de verano central (México))
+
+SAP .NET Connector 3.0 with file version 3.0.16.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+Working directory: C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug
+Operating system: Windows 8  64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 527
+Hostname: DESKTOP-2A135M5, IP address: 10.10.6.104, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2017-06-29 23:13:34.769 [Thread 10]
+SAP.Middleware.Connector.RfcTypeConversionException: FIELD RSNUM of TABLE [STRUCTURE ZSAM_MOV] (SETTER): cannot convert String into NUM(10) ---> SAP.Middleware.Connector.RfcTypeConversionException: Cannot convert "RE13000002" into NUM (it contains non-digit characters)
+   en SAP.Middleware.Connector.RfcScalarMetadataNum.ConvertString(String value, Object& currentValue)
+   en SAP.Middleware.Connector.RfcDataContainer`1.SetValue(Int32 index, String value)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en SAP.Middleware.Connector.RfcDataContainer`1.SetValue(Int32 index, String value)
+>> Error entry 2017-06-29 23:21:56.720 [Thread 10]
+[SAPROUTER=/H/187.216.122.142 CLIENT=310 LANG=ES USER=desarrollo PASSWD=******** ASHOST=192.168.100.44 SYSNR=00 SYSID=BFQ NAME=BFQ]
+System.Threading.ThreadAbortException: Subproceso anulado.
+   en SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   en SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   en SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   en SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   en SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   en SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   en SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   en SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   en SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   en SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)

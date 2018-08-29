@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Conexiones>
+    <System>QAS</System>
+    <SystemNumber>00</SystemNumber>
+    <AppServer>192.168.1.228</AppServer>
+    <Client>200</Client>
+    <User>jlopez</User>
+    <Password>sanper</Password>
+    <Language>ES</Language>
+    <SAPRouter></SAPRouter>
+    <!--<SAPRouter>/H/187.216.122.142/H/</SAPRouter>-->
+  <!--BASE DE DATOS-->
+    <Server>DESKTOP-2A135M5</Server>
+    <Database>bajaferries</Database>
+    <UsuarioBD>sa</UsuarioBD>
+    <PasswordBD>desarrollo</PasswordBD>
+</Conexiones>

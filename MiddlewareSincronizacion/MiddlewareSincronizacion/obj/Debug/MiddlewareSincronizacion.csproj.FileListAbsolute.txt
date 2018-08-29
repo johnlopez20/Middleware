@@ -1,0 +1,147 @@
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP_Utilities.dll
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP_Utilities.pdb
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP_Utilities.xml
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+c:\users\org\documents\visual studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP_Utilities.pdb
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP_Utilities.xml
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+C:\Users\AreConsulting\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP_Utilities.dll
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP_Utilities.pdb
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP_Utilities.xml
+C:\Users\ORG\Documents\AREConsulting\Middleware\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\ORG\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.exe
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.dll
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\SAP.Connector.dll
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco.dll
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\sapnco_utils.dll
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.xml
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.exe
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache

@@ -1,0 +1,59 @@
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.exe
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Admin\Desktop\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.exe
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\Admin\Desktop\Baja Ferries 2017\MDL CORREGIDO\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Admin\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.exe
+C:\Users\Admin\Desktop\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.pdb
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe.config
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.exe
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.pdb
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.pdb
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.dll
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.SqlServer.dll
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.xml
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.SqlServer.xml
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.Inicio.resources
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+F:\Respaldo AREConsulting\Escritorio\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe.config
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.exe
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.dll
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.xml
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.frmLocalHost.resources
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.Inicio.resources
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.Properties.Resources.resources
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.csproj.GenerateResource.Cache
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.exe
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.pdb
+C:\Users\Donovan\Documents\MiddlewareSincronizacion\MiddlewareSincronizacion\obj\x64\Debug\MiddlewareSincronizacion.csprojResolveAssemblyReference.cache

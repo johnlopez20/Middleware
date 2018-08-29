@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareSincronizacion", "MiddlewareSincronizacion\MiddlewareSincronizacion.csproj", "{9A54567F-0696-420D-B941-B47FF9F1515A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|x64 = CD_ROM|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|x64 = DVD-5|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|x64 = SingleImage|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.CD_ROM|x64.ActiveCfg = Release|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.CD_ROM|x64.Build.0 = Release|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.Debug|Any CPU.Build.0 = Debug|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.Debug|x64.Build.0 = Debug|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.DVD-5|x64.ActiveCfg = Debug|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.DVD-5|x64.Build.0 = Debug|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.Release|x64.ActiveCfg = Release|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.Release|x64.Build.0 = Release|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.SingleImage|x64.ActiveCfg = Release|x64
+		{9A54567F-0696-420D-B941-B47FF9F1515A}.SingleImage|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

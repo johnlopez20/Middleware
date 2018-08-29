@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SAP>
+  <System>BFQ</System>
+  <SystemNumber>00</SystemNumber>
+  <AppServer>192.168.100.40</AppServer>
+  <Client>500</Client>
+  <User>INTERFAZOFF</User>
+  <Password>sineti1</Password>
+  <Language>ES</Language>
+  <SAPRouter>/H/187.216.122.142</SAPRouter>
+</SAP>

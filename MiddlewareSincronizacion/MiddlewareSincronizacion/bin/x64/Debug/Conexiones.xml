@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Conexiones>
+    <System>PRD</System>
+    <SystemNumber>00</SystemNumber>
+    <AppServer>192.168.1.249</AppServer>
+    <Client>350</Client>
+    <User>CARGAINICIAL</User>
+    <Password>Carare.18</Password>
+    <Language>ES</Language>
+	<SAPRouter></SAPRouter>
+    <!--<SAPRouter>/H/45.7.46.247/H/</SAPRouter>-->
+  <!--BASE DE DATOS-->
+    <Server>DESKTOP-NUNG9CI</Server>
+    <Database>sam</Database>
+    <UsuarioBD>sa</UsuarioBD>
+    <PasswordBD>desarrollo</PasswordBD>
+</Conexiones>

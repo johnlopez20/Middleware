@@ -1,0 +1,398 @@
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Vella\Desktop\sap jefe\FESAP\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\VElla\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\VElla15_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\VElla21_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\VElla22_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\VElla25_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI27_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI28_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI29_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI30_11_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI03_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI06_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_10_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_13_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_20_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_23_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_24_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_28_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_30_12_2013\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_01_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_02_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP\KW_CFDI_07_01_2014_03\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_14_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_16_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_20_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_21_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+D:\versiones\FacturacionSAP_KW\KW_CFDI_27_01_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_7_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Vella\Desktop\Versiones\CFDI KW\Facturacion\KW_CFDI__I_20_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_28_02_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Ricardo\Desktop\Desarrollos\Versiones\CFDI KW\Facturacion\KW_CFDII_14_03_2014\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Daniel\Desktop\KW_CFDII_14_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_27_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Daniel\Desktop\Desarrollos\Kenworth\KW_CFDII_31_03_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Adrian\Desktop\DesarrollosRick2.0\Kenworth\KW_CFDII_06_04_2014_PEPSICO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Adrian\Desktop\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Daniel\Desktop\Proyectos_PCAdrian\KW_CFDII_09_04_2014_ADO\FacturacionElectronicaAllInOne\SAP_Utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Jonathan Lopez\Desktop\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\PC\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Empresa\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\bin\Debug\SAP_Utilities.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\MiddlewareSincronizacion\sap_utilities\obj\Debug\SAP_Utilities.pdb

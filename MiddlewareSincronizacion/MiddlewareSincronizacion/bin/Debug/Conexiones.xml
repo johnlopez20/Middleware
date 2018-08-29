@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Conexiones>
+    <System>DEV</System>
+    <SystemNumber>00</SystemNumber>
+    <AppServer>192.168.1.227</AppServer>
+    <Client>120</Client>
+    <User>jlopez</User>
+    <Password>sanper</Password>
+    <Language>ES</Language>
+    <SAPRouter></SAPRouter>
+  <!--BASE DE DATOS-->
+    <Server>DESKTOP-NUNG9CI</Server>
+    <Database>sam</Database>
+    <UsuarioBD>sa</UsuarioBD>
+    <PasswordBD>desarrollo</PasswordBD>
+</Conexiones>
